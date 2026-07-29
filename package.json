@@ -1,0 +1,17 @@
+{
+  "name": "composite-film-calculator",
+  "version": "1.0.0",
+  "description": "复合薄膜性能计算网页应用 - 基于传输矩阵法的多层薄膜性能计算与作物匹配系统",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.18.2",
+    "cors": "^2.8.5"
+  },
+  "keywords": ["复合薄膜", "传输矩阵法", "性能计算", "作物匹配"],
+  "author": "",
+  "license": "MIT"
+}
